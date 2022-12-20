@@ -162,7 +162,7 @@ a, button {
 	display: none;
 }
 .side-menu {
-	width: 100%;
+	width: 48%;
 	height: 100%;
 	background: rgba(182, 33, 90, 0.993);
 	position: absolute;
