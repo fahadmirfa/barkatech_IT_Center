@@ -904,4 +904,14 @@ footer .btn:hover {
 	.feedbox form input, .feedbox form .fname{
 		width: 100%;
 	}
+		.rev-cont #content{
+		font-size: 4px;
+
+	}
+}
+@media screen and (max-width: 539px) {
+	.rev-cont #content{
+		font-size: 4px;
+
+	}
 }
